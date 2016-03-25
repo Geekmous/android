@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Z</string>
+    <string name="action_bar">action_bar</string>
+    <string name="text">新闻</string>
+    <string name="showActionBar">showActionBar</string>
+    <string name="hideActionBar">hideActionBar</string>
+</resources>
